@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+https://github.com/BU-IE-360/spring24-erenyilmaaz/blob/main/IE360Project_Group11_report.nb.html
+
 [Link](url) and ![Image](src)
 ```
 
